@@ -1,6 +1,5 @@
 # CatalogoApiFront
 
-Professores, estou com dificuldade de adicionar o Front e o Back no mesmo projeto, então, quando forem fazer o clone desses repositórios, joguem esse CatalogoApiFront e o CatalogoApi numa pasta e abram a solução dentro de CatalogoApi!
+Professores, estou com dificuldade de adicionar o Front e o Back no mesmo repositório, porém, consegui adicionar o back end aqui em forma de uma pasta Zipada, se puderem descompactá-la na hora de clonar, agradeço!
 
-Grato
- 
+
